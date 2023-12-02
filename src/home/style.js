@@ -4,7 +4,7 @@ import styled from 'styled-components';
 export const Container = styled.div `
     h2 {
         text-align: center;
-        margin: 4rem 0;
+        margin: 4rem 50px;
     }
 
     ul {
